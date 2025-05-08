@@ -37,16 +37,18 @@ git clone https://github.com/johnnpark/posture-detection-app.git
 cd posture-detection-app
 pip install -r requirements.txt
 python app.py
+```
 
-## **File Overview**
+## File Overview
 
-app.py - frontend logic, ui, and event flow
-posture_detector.py - backend pose detection and calibration
-IMG_A60BCABA778B-1.jpeg – Logo displayed in the top-left of the app
-Hoohacks-7.jpg – Application background image
-requirements.txt – Python package dependencies
+app.py - frontend logic, ui, and event flow  
+posture_detector.py - backend pose detection and calibration  
+IMG_A60BCABA778B-1.jpeg – Logo displayed in the top-left of the app  
+Hoohacks-7.jpg – Application background image  
+requirements.txt – Python package dependencies  
 
 ## Author
-John Park
+
+John Park  
 Github: @johnnpark
 
